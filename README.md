@@ -20,3 +20,6 @@
 <p><img src="./media/pic (7).png"></p>
 <p><img src="./media/pic (8).png"></p>
 <p><img src="./media/pic (9).png"></p>
+<p><img src="./media/pic (10).png"></p>
+<p><img src="./media/pic (11).png"></p>
+<p><img src="./media/pic (12).png"></p>
