@@ -1,10 +1,10 @@
 <div align="center">
-<h1>GBFHelper(<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=790U8dT-YLsPhdEpnO56aMm8748EvvwG&jump_from=webapi&authKey=xUaj2bOZoSOp+Rn7N9BGbq2jIWFTPLr+RzMOwTUhrUoYv+V8Dv29pciSqItkaFB1">加入QQ群[1054790988]</a>)</h1>
+<h1>GBFHelper(<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=790U8dT-YLsPhdEpnO56aMm8748EvvwG&jump_from=webapi&authKey=xUaj2bOZoSOp+Rn7N9BGbq2jIWFTPLr+RzMOwTUhrUoYv+V8Dv29pciSqItkaFB1">了解更多, 加入QQ群[1054790988]</a>)</h1>
 </div>
 
-<div>
+<div align="center">
 <p>一款多功能覆盖的碧蓝幻想脚本助手</p>
-<p>猎金、猎砂、古战场、星本、转世、刷子弹等等功能</p>
+<p>猎金、猎砂、古战场、星本、转世、刷子弹等等功能👍</p>
 </div>
 
 
